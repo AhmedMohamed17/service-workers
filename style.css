@@ -1,0 +1,9 @@
+ul {
+    display:felx;
+    list-style-type: none;
+}
+li{
+ display:inline;
+ font-size: 30px;
+  margin:15px;
+}
